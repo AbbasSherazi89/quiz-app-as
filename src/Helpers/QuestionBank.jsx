@@ -1,0 +1,42 @@
+export const Questions=[
+    {
+        prompt:'The Capital of Pakistan is?',
+        optionA:'Karachi',
+        optionB:'Lahore',
+        optionC:'Islamabad',
+        optionD:'Peshawar',
+        answer:'C',
+    },
+    {
+        prompt:'The Capital of India is?',
+        optionA:'New Delhi',
+        optionB:'Luknow',
+        optionC:'Hayderabad',
+        optionD:'Mumbai',
+        answer:'A',
+    },
+    {
+        prompt:'The Capital of China is?',
+        optionA:'Shanghai',
+        optionB:'Beijing',
+        optionC:'Tianjin',
+        optionD:'Harbin',
+        answer:'B',
+    },
+    {
+        prompt:'The Capital of Iran is?',
+        optionA:'Najaf',
+        optionB:'Tehran',
+        optionC:'Mashhad',
+        optionD:'Isfahan ',
+        answer:'B',
+    },
+    {
+        prompt:'The Capital of Afghanistan is?',
+        optionA:'Mazar',
+        optionB:'Kandahar ',
+        optionC:'Herat ',
+        optionD:'Kabul',
+        answer:'D',
+    },
+]
